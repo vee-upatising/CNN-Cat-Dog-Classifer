@@ -1,10 +1,7 @@
 # CNN-Cat-Dog-Classifer
 Using a Convolutional Neural Network to classify images of cats and dogs
 
-# Randomized Trial
-I randomly generated 12 numbers that picked an image out of a folder containing 12500 images of cats and dogs.
-The model classified 12/12 images correctly
-
+# Results
 ![1](https://raw.githubusercontent.com/vee-upatising/CNN-Cat-Dog-Classifer/master/1.JPG)
 ![2](https://raw.githubusercontent.com/vee-upatising/CNN-Cat-Dog-Classifer/master/2.JPG)
 ![3](https://raw.githubusercontent.com/vee-upatising/CNN-Cat-Dog-Classifer/master/3.JPG)
@@ -18,6 +15,5 @@ The model classified 12/12 images correctly
 ![11](https://raw.githubusercontent.com/vee-upatising/CNN-Cat-Dog-Classifer/master/11.JPG)
 ![12](https://raw.githubusercontent.com/vee-upatising/CNN-Cat-Dog-Classifer/master/12.JPG)
 
-# Code For CNN and Trials
-[View Notebook](https://nbviewer.jupyter.org/github/vee-upatising/CNN-Cat-Dog-Classifer/blob/master/CNN%20Cat%20Dog.ipynb)
+# [View Notebook](https://nbviewer.jupyter.org/github/vee-upatising/CNN-Cat-Dog-Classifer/blob/master/CNN%20Cat%20Dog.ipynb)
 
