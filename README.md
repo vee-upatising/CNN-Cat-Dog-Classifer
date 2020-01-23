@@ -4,7 +4,7 @@ Using a Convolutional Neural Network to classify images of cats and dogs
 # Visualizations
 # Convolutional Filters
 ![conv filters](https://raw.githubusercontent.com/vee-upatising/CNN-Cat-Dog-Classifer/master/Visualization/cat%20dog%20conv.png) <br/>
-# Heat map of first convolutional layer<br/>
+# Heat Map of First Convolutional Layer<br/>
 ![R1](https://raw.githubusercontent.com/vee-upatising/CNN-Cat-Dog-Classifer/master/Visualization/R1.JPG)
 ![R1](https://raw.githubusercontent.com/vee-upatising/CNN-Cat-Dog-Classifer/master/Visualization/Attention.JPG)<br/>
 ![R2](https://raw.githubusercontent.com/vee-upatising/CNN-Cat-Dog-Classifer/master/Visualization/R2.JPG)
